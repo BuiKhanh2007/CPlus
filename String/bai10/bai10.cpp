@@ -9,7 +9,7 @@ int main()
     bool check=false;
     for(int i=0;i<a.size();i++)
     {
-        if (a[0]==s[0])
+        if (a[i]==s[0])
         {
             if (a.substr(i,s.size())==s)
             {
