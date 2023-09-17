@@ -1,0 +1,7 @@
+BUIDUYKHANH Lop: 11B1/Toan: 9 Van: 8 Tieng Anh: 7
+NGUYENHOANGNAM Lop: 11B1/Toan: 2 Van: 2 Tieng Anh: 10
+BUIMINHHIEN Lop: Khongbiet/Toan: 9 Van: 9 Tieng Anh: 9
+PHAMKHANHTOAN Lop: 12B1/Toan: 10 Van: 10 Tieng Anh: 10
+BUIMINHPHUC Lop: delbiet/Toan: 10 Van: 9 Tieng Anh: 8
+1 Lop: 213/Toan: 123 Van: 123 Tieng Anh: 12
+65 Lop: 54/Toan: 6754 Van: 75 Tieng Anh: 75
