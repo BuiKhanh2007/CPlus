@@ -1,0 +1,20 @@
+<Exam Name="snto" TestScore="0.5" TestTimeout="1" ResultComparer="WordIgnoreCase">
+  <Inputs>
+    <Text>snto.INP</Text>
+  </Inputs>
+  <Outputs>
+    <Text>snto.OUT</Text>
+  </Outputs>
+  <Tests>
+    <Test ID="test1" Score="0" Timeout="0" />
+    <Test ID="test10" Score="0" Timeout="0" />
+    <Test ID="test2" Score="0" Timeout="0" />
+    <Test ID="test3" Score="0" Timeout="0" />
+    <Test ID="test4" Score="0" Timeout="0" />
+    <Test ID="test5" Score="0" Timeout="0" />
+    <Test ID="test6" Score="0" Timeout="0" />
+    <Test ID="test7" Score="0" Timeout="0" />
+    <Test ID="test8" Score="0" Timeout="0" />
+    <Test ID="test9" Score="0" Timeout="0" />
+  </Tests>
+</Exam>
